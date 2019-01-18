@@ -1,0 +1,11 @@
+framework module SuperDuperLibrary {
+  umbrella header "SuperDuperLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module SuperDuperLibrary.Swift {
+    header "SuperDuperLibrary-Swift.h"
+    requires objc
+}
