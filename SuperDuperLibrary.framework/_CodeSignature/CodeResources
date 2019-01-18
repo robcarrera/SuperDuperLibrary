@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0LaIkXgyPfGmpPz669gaP7eQGVo=
+		Y0xvlS8gllbHSKP4lyqBLI+VMRY=
 		</data>
 		<key>Modules/SuperDuperLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OSz899a41lKA63YffJ+on8SWcs8=
+		bUMTpZUss03bWFMjhMhSr7OIVPk=
 		</data>
 		<key>Modules/SuperDuperLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		EynYxwTcHNYNooyJAoTh9CnkCpg=
+		ldoZ7HEFKt6NJj3atKBGMQF0d+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -33,6 +33,10 @@
 	<dict>
 		<key>Headers/SuperDuperLibrary-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eIidjnqX6kFxIzZM8dzPKn0Pn/k=
+			</data>
 			<key>hash2</key>
 			<data>
 			P8OARsl1sXrAiQrBzMqYN/09OqsMj0iv4mzzqk9GAeM=
@@ -40,6 +44,10 @@
 		</dict>
 		<key>Headers/SuperDuperLibrary.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bpuEptHwtvSMpK0b0lfX/x11lxQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			s+eQPVBxebbstPly0b329GKGnhnSaNRAuk6Q/zvlCck=
@@ -47,20 +55,32 @@
 		</dict>
 		<key>Modules/SuperDuperLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bUMTpZUss03bWFMjhMhSr7OIVPk=
+			</data>
 			<key>hash2</key>
 			<data>
-			W7l7e6LoiInHIoRKqTAu53IGPCA+Jd8KEAAUHuxfPwo=
+			2YRkAtznwOSL9NS645IfRngJoZC/ojc0l/6VAAYaoEE=
 			</data>
 		</dict>
 		<key>Modules/SuperDuperLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ldoZ7HEFKt6NJj3atKBGMQF0d+E=
+			</data>
 			<key>hash2</key>
 			<data>
-			W/r6QuA5TRnG9s2+kh6S3bZ8uWy8SkFtUp0/x9EuE0k=
+			lnUIH2JDWTdTJMRsf134udXszEtZFAKQ/GXGvPYXvLY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Wgf+ES0jjcHm0k0NE2qb4p1428k=
+			</data>
 			<key>hash2</key>
 			<data>
 			lmtmi6dENQnXkYhWxg0IBdS/tC9f6b2uHtNXDYj2BWM=
